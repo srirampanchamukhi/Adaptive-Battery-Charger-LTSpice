@@ -23,6 +23,7 @@ As part of the ElectroQuad'25 Hackathon, the challenge was to design and simulat
 ## ⚙️ What I Built
 
 - Designed and simulated in **LTSpice**
+- Implemented a **MOSFET-based Buck-Boost Converter** for dynamic voltage regulation
 - Implemented current control and ripple suppression
 - Built under a 3-hour time limit using only permitted components
 
@@ -38,6 +39,7 @@ Despite constraints, the design met the **ripple requirement**, although the out
 | BJT + R-C Network  | Used for current control and soft switching     |
 | Filters            | Capacitors for ripple smoothing                 |
 | Safety Mechanisms  | Passive thermal and current protection logic    |
+| Buck-Boost Converter | Main voltage regulation block using switching MOSFET topology |
 
 ---
 
