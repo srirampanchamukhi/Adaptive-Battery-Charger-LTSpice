@@ -20,7 +20,7 @@ As part of the ElectroQuad'25 Hackathon, the challenge was to design and simulat
 
 ---
 
-## ⚙️ What We Built
+## ⚙️ What I Built
 
 - Designed and simulated in **LTSpice**
 - Implemented current control and ripple suppression
@@ -68,6 +68,8 @@ Despite constraints, the design met the **ripple requirement**, although the out
 
 🥈 **2nd Prize Winner** out of 150 teams across 4 NITs (Trichy, Calicut, Surathkal, Warangal)  
 ElectroQuad'25 — National Inter-NIT Hardware Hackathon
+
+I participated as a solo team (**Team PV**) and secured the runner-up position among highly competitive multidisciplinary teams.
 
 ![Runner-up Certificate](docs/Runner-up%20Certificate.png)
 
