@@ -69,7 +69,7 @@ Despite constraints, the design met the **ripple requirement**, although the out
 ## 🏆 Award
 
 🥈 **2nd Prize Winner** out of 150 teams across 4 NITs (Trichy, Calicut, Surathkal, Warangal)  
-ElectroQuad'25 
+ElectroQuad'25 Hackathon
 
 I participated as a solo team (**Team PV**) and secured the runner-up position among highly competitive multidisciplinary teams.
 
